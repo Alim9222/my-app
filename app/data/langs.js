@@ -25,12 +25,12 @@ export const langs = {
     ru: "Контакты",
   },
   short_info: {
-    en: "Frontend developer 24 years old, Dushanbe",
-    ru: "Фронтенд-разработчик 24 года, Душанбе",
+    en: "Frontend developer 16 years old, Dushanbe",
+    ru: "Фронтенд-разработчик 16 года, Душанбе",
   },
   info1: {
-    en: " Hi, I'm Denis - Frontend developer from Dushanbe. I'm interested in desighn and everything connected with it",
-    ru: "Привет. Я Денис - Фронтенд разработчик из Душанбе. Я интересуюсь дизайном и всем что связано с этим",
+    en: " Hi, I'm Amina - Frontend developer from Dushanbe. I'm interested in desighn and everything connected with it",
+    ru: "Привет. Я Амина - Фронтенд разработчик из Душанбе. Я интересуюсь дизайном и всем что связано с этим",
   },
   info2: {
     en: "I'm studying at courses 'introduction to Frontend' in Re-skills.",
@@ -38,7 +38,7 @@ export const langs = {
   },
   info3: {
     en: "Ready to implement excellent projects with wonderful people.",
-    ru: "Готов реализовать отличные проекты с замечательными людьми.",
+    ru: "Готова реализовать отличные проекты с замечательными людьми.",
   },
   programs: {
     en: " I work in such programs as",
