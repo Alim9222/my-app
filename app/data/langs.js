@@ -24,8 +24,8 @@ export const langs = {
     ru: "Контакты",
   },
   short_info: {
-    en: "Frontend developer 24 years old, Dushanbe",
-    ru: "Фронтенд-разработчик 24 года, Душанбе",
+    en: "Frontend developer 16 years old, Dushanbe",
+    ru: "Фронтенд-разработчик 16 года, Душанбе",
   },
   info1: {
     en: " Hi, I'm Denis - Frontend developer from Dushanbe. I'm interested in desighn and everything connected with it",
